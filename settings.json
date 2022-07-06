@@ -144,3 +144,20 @@
   "gitlens.codeLens.enabled": false,
   "workbench.iconTheme": "material-icon-theme"
 }
+
+
+/*{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.rulers" : [
+      80,
+      120
+    ],
+    "editor.codeActionsOnSave" : {
+      "source.fixAll.eslint" : true,
+      // "source.organizeImports": true
+    } 
+  }*/ 
